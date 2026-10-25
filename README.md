@@ -1,103 +1,128 @@
-# Hi there! 👋 I'm Vinod Nalajala
+# Hi there, I'm Vinod Nalajala 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinod-nalajala-a7264b268)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Vinod2127)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=world)](https://personal-portfolio-lovat-six-72.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nalajalavinod@gmail.com)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Impactful+Products" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** with a keen interest in building intelligent systems and web applications. With expertise in **Python**, **JavaScript**, **React**, and **Machine Learning**, I love solving complex problems and creating impactful solutions.
+I’m a passionate Full-Stack Developer and AI/ML enthusiast focused on building intelligent, scalable, and user-centric digital solutions.
 
-Currently, I'm focused on:
-- 🤖 **Artificial Intelligence & Machine Learning** - Building predictive models and AI-powered applications
-- 💻 **Full-Stack Web Development** - Creating responsive and scalable web applications
-- 📊 **Data Analysis & Visualization** - Extracting insights from data
-- 🔧 **System Design** - Architecting robust and efficient solutions
+With a strong foundation in software development, machine learning, and data-driven problem solving, I enjoy creating products that combine clean engineering with real-world impact. My work spans frontend interfaces, backend systems, APIs, and AI-powered applications.
+
+### Core Interests
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Web Development
+- 📊 Data Analysis & Visualization
+- 🧠 Computer Vision & Deep Learning
+- 🔧 System Design & Product Thinking
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technical Skills
 
-### Technical Skills
+### Languages
+- Python
+- JavaScript
+- Java
+- SQL
+- HTML / CSS
 
-**Languages:**
-- Python | JavaScript | Java | SQL | HTML/CSS
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- Responsive UI Design
+- Material UI
 
-**Web Technologies:**
-- Frontend: React.js, JavaScript ES6+, Responsive Design, Material-UI
-- Backend: Node.js, Express.js, REST APIs
-- Databases: MySQL, MongoDB, Firebase
+### Backend
+- Node.js
+- Express.js
+- REST APIs
 
-**AI/ML & Data Science:**
+### Databases
+- MySQL
+- MongoDB
+- Firebase
+
+### AI / ML / Data Science
 - Machine Learning: TensorFlow, Scikit-learn, Keras
 - Computer Vision: OpenCV, YOLOv8, ResNet9
-- Deep Learning: Neural Networks, CNNs, Image Classification
+- Deep Learning: Neural Networks, CNNs
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 
-**Tools & Technologies:**
-- Git & GitHub | Docker | Cloud Platforms
-- Jupyter Notebook | Google Colab
-- IDE: VS Code, PyCharm
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- PyCharm
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Information Technology**
-  - Kalasalingam University | Graduation: 2026
-  
+- B.Tech in Information Technology
+- Kalasalingam University
+- Graduation Year: 2026
 
 ---
 
-## 📌 Notable Projects
+## 🌟 Featured Projects
 
-### 🧠 [Brain Tumor Prediction with Explainable AI](https://github.com/Vinod2127/Brain-Tumor-Prediction-With-Explainable-AI)
-A deep learning project using CNN to predict brain tumors with explainable AI techniques for medical interpretability.
+### 🧠 Brain Tumor Prediction with Explainable AI
+A deep learning project focused on accurate brain tumor detection using CNN-based models and explainable AI methods for medical interpretability.
 
-**Key Features:**
-- ResNet & VGG-19 based models for tumor classification
-- LIME & Grad-CAM for model explainability
-- Accuracy: 95%+ on test dataset
-- Medical-grade validation
+**Highlights:**
+- ResNet and VGG-19 based models
+- LIME and Grad-CAM for model explainability
+- High accuracy on test data
+- Designed for healthcare-oriented decision support
 
 **Tech Stack:** Python, TensorFlow, Keras, OpenCV, Matplotlib
 
+[GitHub Repository](https://github.com/Vinod2127/Brain-Tumor-Prediction-With-Explainable-AI)
+
 ---
 
-### 🌾 [Leaf Disease Prediction Using ResNet9 & YOLOv8](https://github.com/Vinod2127/Leaf-Disease-Prediction-Using-ResNet9-and-YOLOv8.git)
-An advanced agricultural AI solution combining image classification and object detection for disease identification.
+### 🌾 Leaf Disease Prediction Using ResNet9 & YOLOv8
+An AI-powered agricultural solution for crop disease detection using image classification and object detection.
 
-**Key Features:**
+**Highlights:**
 - ResNet9 for disease classification
 - YOLOv8 for real-time leaf detection
-- Web interface for farmers
-- High accuracy & fast inference
+- Farmer-friendly interface
+- Fast inference for practical deployment
 
 **Tech Stack:** Python, YOLOv8, ResNet9, Flask/Django, React
+
+[GitHub Repository](https://github.com/Vinod2127/Leaf-Disease-Prediction-Using-ResNet9-and-YOLOv8)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- **CodeChef Certified** - [View Certificate](https://www.codechef.com/certificates/public/582f3b9)
-- Strong problem-solving skills with consistent participation in competitive programming
+- ✅ CodeChef Certified
+- 📜 [View Certificate](https://www.codechef.com/certificates/public/582f3b9)
+- 🧠 Strong problem-solving ability with active participation in competitive programming
+- 🚀 Passionate about building impactful, AI-driven solutions
 
 ---
 
-
-
 ## 🔗 Connect With Me
 
-I'm always open to:
-- 💡 Collaborating on AI/ML projects
-- 🚀 Building innovative web applications
-- 📚 Sharing knowledge and learning from the community
-- 🤝 Networking with fellow developers and professionals
-
-**Let's connect and create something amazing together!**
+I’m open to:
+- AI/ML collaborations
+- Full-stack product development
+- Open-source contributions
+- Networking with fellow developers and innovators
 
 - 📧 Email: [nalajalavinod@gmail.com](mailto:nalajalavinod@gmail.com)
 - 💼 LinkedIn: [Vinod Nalajala](https://www.linkedin.com/in/vinod-nalajala-a7264b268)
@@ -107,17 +132,21 @@ I'm always open to:
 
 ## 📈 Current Focus
 
-- Advancing expertise in **Deep Learning & Computer Vision**
-- Building production-ready **Full-Stack Applications**
-- Contributing to **Open Source** projects
-- Exploring **Generative AI** and modern ML frameworks
+- Advancing expertise in Deep Learning and Computer Vision
+- Building production-ready full-stack applications
+- Exploring Generative AI and modern ML tools
+- Contributing to impactful projects and learning communities
 
 ---
 
-## 💬 Fun Fact
+## 💬 Quote
 
-*"Code is poetry written in logic, and every project is a canvas for innovation!"*
+> “Code is poetry written in logic, and every project is a canvas for innovation.”
 
 ---
 
-**Last Updated:** May 2026 | Feel free to explore my repositories and reach out for collaborations!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinod2127&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+**Last Updated:** October 2026
